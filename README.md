@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**GermanoRS/GermanoRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Germano Silva 
+ <div>
+  <a href="https://github.com/GermanoRS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GermanoRS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoRS&layout=compact&langs_count=7&theme=react"/>
+</div>
+  
+  ##
+  
+<div>
+  ![Snake animation](https://github.com/GermanoRS/GermanoRS/blob/output/github-contribution-grid-snake.svg)
+</div>
